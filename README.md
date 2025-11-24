@@ -4,7 +4,7 @@
 https://github.com/USERNAME/REPO/releases
 
 ## 🖼 Пример интерфейса
-![Интерфейс радио](/mnt/data/radio_logo.png)
+![Интерфейс радио](/radio_logo.png)
 
 ---
 
